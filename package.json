@@ -1,0 +1,7 @@
+{
+  "name": "leaderboard-backend",
+  "version": "1.0.0",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
